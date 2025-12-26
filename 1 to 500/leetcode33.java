@@ -2,6 +2,7 @@
 DATE : 26-DEC-2025
 LEVEL : Medium
 TOPIC : Binary Search
+
 class Solution {
     public int search(int[] nums, int target) {
         int start=0;
