@@ -1,7 +1,7 @@
 
 DATE : 17-JAN-2026
 LEVEL : Easy
-TOPIC : Arrays
+TOPIC : String
 
 class Solution {
     public int countMatches(List<List<String>> items, String ruleKey, String ruleValue) {
