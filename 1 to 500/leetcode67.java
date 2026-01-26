@@ -1,3 +1,8 @@
+
+DATE : 26-JAN-2026
+LEVEL :Easy
+TOPIC : Strings
+
 class Solution {
     public String addBinary(String a, String b) {
         StringBuilder sb = new StringBuilder();
