@@ -16,7 +16,6 @@ class Solution {
             map1[c1] = i + 1;
             map2[c2] = i + 1;
         }
-
         return true;
     }
 }
