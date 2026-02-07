@@ -1,7 +1,7 @@
 
 DATE : 18-JAN-2026
 LEVEL : Easy
-TOPIC : String 
+TOPIC : String
 
 class Solution {
     public boolean areOccurrencesEqual(String s) {
