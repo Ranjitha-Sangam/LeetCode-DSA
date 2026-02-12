@@ -1,7 +1,7 @@
 
 DATE : 12-FEB-2026
 LEVEL : Easy
-TOPIC : Arrays
+TOPIC : HashMap
 
 class Solution {
     public boolean digitCount(String num) {
