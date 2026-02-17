@@ -1,0 +1,18 @@
+
+DATE : 17-FEB-2026
+LEVEL : Easy
+TOPIC : Arrays
+
+class Solution {
+    public int largestAltitude(int[] gain) {
+
+        int altitude = 0;
+        int max = 0;
+
+        for (int g : gain) {
+            altitude += g;     
+            max = Math.max(max, altitude);
+        }
+        return max;
+    }
+}
