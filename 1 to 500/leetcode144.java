@@ -1,6 +1,6 @@
 
 DATE : 23-March-2026
-LEVEL : Trees
+LEVEL : Easy
 TOPIC : Binary Trees
 
 class Solution {
